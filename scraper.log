@@ -1,0 +1,9 @@
+2025-04-16 10:10:50,899 - INFO - Successfully scraped and saved job data in: C:\Users\uncommonStudent/Desktop/JobScraper\scrapped_data.csv
+2025-04-16 10:11:15,050 - INFO - Successfully scraped and saved job data in: C:\Users\uncommonStudent/Desktop/JobScraper\scrapped_data.csv
+2025-04-16 10:11:18,584 - INFO - Successfully scraped and saved job data in: C:\Users\uncommonStudent/Desktop/JobScraper\scrapped_data.csv
+2025-04-16 10:11:56,355 - INFO - Successfully scraped and saved job data in: C:\Users\uncommonStudent/Desktop/scrapped_data\scrapped_data.csv
+2025-04-16 14:22:31,924 - INFO - Job data successfully saved in: C:\Users\uncommonStudent/Desktop/scrapped_data\scrapped_data.csv
+2025-04-16 15:41:36,091 - job_scraper - INFO - Starting job scraping using hardcoded data...
+2025-04-16 15:41:36,223 - job_scraper - INFO - Successfully saved 1 jobs to scraped_data.csv
+2025-04-16 15:41:36,224 - job_scraper - INFO - Starting scheduler...
+2025-04-16 16:00:36,232 - job_scraper - INFO - Scheduler still running...
